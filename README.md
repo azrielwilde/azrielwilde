@@ -1,8 +1,8 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
+# salutations.
 
-## 🚀 About Me
+## — introduction.
 
-🎓 I'm Evelyn Archer, a **Graphic Designer and Coder** (specializing in **Portfolio Making**) pursuing my coding knowledge in **Figma Design**.
+🎓 i'm azriel, someone who just exists to perhaps fail miserably at coding.
 
 👨‍💻 I enjoy making **Graphic Design and App Design** and am really enthusiastic about learning new technology. In 2021, I learnt **Swift**, **Kotlin**, **Java**, **React** and **JavaScrpt**. I also got started with [**story writing**](https://www.wattpad.com/user/evelyn_writes-) and [**app building**](evelyn.archer_codes) recently.
 
@@ -13,7 +13,7 @@ by _Brian Tracy_ in the genre of self-help and **Getting Things Done** by _David
 
 ✈️ I love **adventuring** as well, even though its been some time since I last travelled. My last trip was a move to **UK** in _2020_.
 
-## 🏅 Achievements
+## — achievements.
 
 🤷‍♀️ Huh. Nothing here yet!
 
