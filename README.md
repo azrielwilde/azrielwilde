@@ -6,6 +6,20 @@
 
 →
 
+→
+→
+→
+→
+→
+→
+
+→
+
+→
+
+→
+
+
 🎸 Outside the world of tech too, I love pushing myself to develop new skills ranging from **guitar**, **piano**, **music production**, **singing** to some whacky ones like **create a circle of talk** (only aiming from mastery only in **guitar** and **piano** though).
 
 📚 I love reading books on **productivity** & **journalism**. My favourites ones are **Eat That Frog! : 21 Great Ways to Stop Procrastinating and Get More Done in Less Time**
