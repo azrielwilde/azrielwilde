@@ -2,9 +2,9 @@
 
 ## — introduction.
 
-🎓 i'm azriel, someone who just exists to perhaps fail miserably at coding.
+→ i'm azriel, someone who just exists to perhaps fail miserably at coding.
 
-👨‍💻 I enjoy making **Graphic Design and App Design** and am really enthusiastic about learning new technology. In 2021, I learnt **Swift**, **Kotlin**, **Java**, **React** and **JavaScrpt**. I also got started with [**story writing**](https://www.wattpad.com/user/evelyn_writes-) and [**app building**](evelyn.archer_codes) recently.
+→
 
 🎸 Outside the world of tech too, I love pushing myself to develop new skills ranging from **guitar**, **piano**, **music production**, **singing** to some whacky ones like **create a circle of talk** (only aiming from mastery only in **guitar** and **piano** though).
 
